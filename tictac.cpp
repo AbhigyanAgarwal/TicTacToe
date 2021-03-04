@@ -12,7 +12,7 @@ void clear_game() // to clear the board
         }   
     return ;
 }
-int check(vector<vector<int>> state) // to check the current state if any player has won
+int check(vector<vector<int>> state) // to check the current state if any player has won//
 {
     for(int i=0;i<3;i++)
         {
